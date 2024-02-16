@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LibreriaOUT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../LibreriaOUT/out/artifacts/LibreriaOUT_jar/LibreriaOUT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
